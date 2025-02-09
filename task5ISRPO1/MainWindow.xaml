@@ -8,6 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid Background="Pink">
         <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" Text="Помогити, это лаба сделана руками заложника"/>
-        <Button VerticalAlignment="Top" Margin="40,322,40,0" Content="Нажми потму что я так сказала"/>
+        <Button VerticalAlignment="Top" Margin="40,322,40,0" Content="Нажми потму что я так сказала" Click="Button_Click"/>
     </Grid>
 </Window>

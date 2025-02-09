@@ -24,5 +24,13 @@ namespace task5ISRPO1
 		{
 			InitializeComponent();
 		}
-	}
+
+		private void Button_Click(object sender, RoutedEventArgs e)
+		{
+			var idi_v_popu = new YouAreParasha();
+			idi_v_popu.Show();
+			
+
+        }
+    }
 }
